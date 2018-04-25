@@ -1,4 +1,4 @@
-package com.zrq.dividerdemo;
+package com.ray.dividerdemo;
 
 import android.graphics.Color;
 import android.support.annotation.Nullable;

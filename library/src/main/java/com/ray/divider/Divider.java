@@ -1,4 +1,4 @@
-package com.zrq.divider;
+package com.ray.divider;
 
 import android.graphics.Canvas;
 import android.graphics.Color;

@@ -1,4 +1,4 @@
-package com.zrq.dividerdemo;
+package com.ray.dividerdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -7,7 +7,7 @@ android {
     }
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.zrq.dividerdemo"
+        applicationId "com.ray.dividerdemo"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
