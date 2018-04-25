@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 /**
  * 描述: RecyclerView通用分割线
  *
- * @author zhangrq
+ * @author Ray
  * 2018/4/18 16:08
  */
 @SuppressWarnings("unused")
