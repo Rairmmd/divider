@@ -14,7 +14,10 @@
 ```
 implementation 'com.ray:divider:0.0.1'
 ```
-
+若出现依赖包版本冲突请使用以下依赖方式:
+```
+compile('com.ray:divider:0.0.1', {exclude group: 'com.android.support'})
+``` 
 ## 调用：
 ```java
 recyclerView.addItemDecoration(Divider.builder()
