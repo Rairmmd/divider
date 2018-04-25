@@ -3,21 +3,18 @@
 ##### 适配了LinearLayoutManager、GridLayoutManager、StaggeredGridLayoutManager
 # 使用说明：
 ## Demo
-[下载 APK-Demo](https://github.com/zrq1060/Divider/blob/master/res/app-debug.apk)
+[下载 APK-Demo](https://github.com/Ray512512/divider/blob/master/res/app-debug.apk)
 ## 效果：
 |原始用法|增头增尾|
 |:---:|:---:|
-|![](https://github.com/zrq1060/Divider/blob/master/res/0.gif)|![](https://github.com/zrq1060/Divider/blob/master/res/1.gif)|
+|![](https://github.com/Ray512512/Divider/blob/master/res/0.gif)|![](https://github.com/Ray512512/Divider/blob/master/res/1.gif)|
 
 ## 导入
 ### Android studio 
 ```
-implementation 'com.zrq:divider:1.0.1'
+implementation 'com.ray:divider:0.0.1'
 ```
-### Eclipse
-```
-导入app/libs/divider-1.0.1.jar
-```
+
 ## 调用：
 ```java
 recyclerView.addItemDecoration(Divider.builder()
@@ -52,11 +49,6 @@ recyclerView.invalidateItemDecorations();
 ```
 
 
-## 联系我：
-
-QQ：273902141
-
-邮箱：zrq1060@163.com
 
 
         
